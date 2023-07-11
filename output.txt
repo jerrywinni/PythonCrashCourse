@@ -1,0 +1,63 @@
+affiliation,sentiment,gadgets,troll,guardrail,jailbreak,sinister,pharma,incentive,intuition,Disctinction,synthesis,ubiquitous,suspicious,CAPTCHA,reinforcement,plausible,embody,citation,harassment,collude,tsunami,pessimist,optimist,upend,adjacent,quantum,hologram,comparison,orchestrate
+-----
+overlay,creepy,augmented,litter,fatality,multidisciplinary,biomechanics,neuroscience,telecoms,emergence,irrational,wardrobe,intimate,foster,retreat,obsessed,unfulfilling,novelty,disproportionately,bump,reminiscence,meditate,skydiving,mimic,fistful,elevation,skyscraper,idle,undeniable,presumably
+-----
+pivotal,poised,conjure,unleash,cohort,constraints,facets,concrete,essay,insidious,calculus,realm,squeamish,irrepressibly,psych,fanciful,duvet,tenderness,wilfulness,shun,clamour,assiduously,unbeknownst,insomnia,decency,wherewithal,unfading,rigorous,kooky,stellar
+-----
+mortal,gizmo,locomotive,ethic,proclaim,rendered,goofy,imperial,malevolent,braying,intolerance,apathy,hubris,royale,martial,nick,matriculate,hinge,maelstrom,divine,ecotourism,conservation,degradation,collaborate,stalks,herring,extraction,spawning,salmon,biodiverse
+-----
+gene,recessive,temperate,intact,solitude,indigenous,hippocampus,dopamine,neurotransmitter,abstain,fast,hydrated,Martians,acronym,mnemonic,electromagnetic,stationary,alter,verbatim,transcribe,shallow,distraction,oodles,consumerism,parlor,entice,damper,paradox,cashews,maple
+-----
+pecans,blow up,reap,passion,payoff,upsides,hyper-conservative,reps,barbell,overwhelm,fragile,daunting,redemptively,stark,aggregate,blunt,dedication,appreciation,trivial,intensity,striking,elevated,despicable,deem,crucial,untangle,projected,cortex,prefrontal,peek
+-----
+neural,infrared,spectroscopy,oxygenation,physiological,scent,tease,sensory,scented,odor,induced,nonetheless,finite,restorative,thyroidectomy,appendectomy,fare,hemorrhoidectomy,energize,cutting-edge,lidar,forester,emerging,embrace,institute,inequality,philanthropy,one-act,stay tuned,ramp
+-----
+counter,swamped,stutter,flip,tribe,anxiety,lasagne,ooze,edible,instantaneously,evolved,dense,cues,appetising,override,hedonic,ketone,deprivation,prolonged,glucose,episodic,metabolic,stems,bodily,replenish,biological,kosher,lard,recipe,vegan
+-----
+phased out.,roughly,calories,surefire,nod,aka,aisle,staple,pasty,knockoff,munch,derivation,highbrow,brow,biscuit,wonder,dunk,moniker,inception,cult-like,cult,concept,perceptible,narrowing,perceptual,perceive,discern,phonemes,distinct,mechanism
+-----
+acquisition,stunted,handicap,monolingual,fluently,bilingual,cognition,ambiguous,subtle,affirm,modest,intellect,versed,supreme,hypothetical,unforeseen,judicial,abstract,tackle,Protestant,botany,astronomy,moderate,circular,contradictory,midwife,constitute,despondent,morale,assertion
+-----
+hostile,pillage,deceive,probes,fabricated,Socratic,fictional,insightful,probe,explicit,morality,lengthy,loathe,persuasive,stigmatised,controversial,esteem,parasocial,surrogate,proponent,neurons,neuroscientist,assimilation,staggering,proverb,strive,myriad,prosperity,durable,unparalleled
+-----
+ingenuity,biodiversity,imperative,solidarity,sheers,boundless,glaringly,explicitly,sloppy,fatigue,syntax,fine-toothed,comb,thesis,genres,privileged,feasible,precedent,oftentimes,flatter,thrive,empower,oriented,passive,demoralize,deflate,chore,collaboration,imply,scenario
+-----
+dwelling,deceptively,reframing,Alzheimer,rephrase,phonological,peripheral,deliberately,borne,honour,vulnerable,humiliating,gracious,regressive,furry,embodiment,obscure,infinitely,secluded,possess,retreating,nurture,crave,grief,trialled,vulnerability,evoke,adolescence,rehearse,benevolent
+-----
+indispensable,repertoire,pervert,upbraid,punitive,harsh,odd,sympathy,compassion,fascinate,possession,stained,shed,abusive,sensitivity,psychoanalyst,penguin,manifest,incidental,apparent,freeloader,antsy,minimalist,pharmacist,stagnant,suburb,amid,piling,depression,annoyance
+-----
+conversely,empathize,frustration,tempting,tempering,interact,outline,consciously,behave,appraisal,hind,appraise,intervene,devastate,ace,tearing,enrichment,cranny,nook,expel,insulating,shelter,pounce,meander,shrub,ambush,cardboard,prey,predator,schmutz
+-----
+overrun,archaeological,archaeologist,leftover,spoiled,curator,artifacts,gladiator,amphitheater,colosseum,astronaut,manifestation,portal,ingenious,interior,intuitively,algorithm,habituation,gravitate,savannah,trawling,gatherer,evolutionary,familiarity,subconscious,mere-exposure,sturdy,skepticism,sleek,vintage
+-----
+hazard,prone,bewildering,patronising,emerge,severe,repercussions,erase,stern,outwards,generalise,therapy,intents,though,bewilder,frightened,resemble,inflammatory,traumas,occasion,appeasement,terror,despair,rage,spectrum,perspective,faculty,revert,merely,reveals
+-----
+emphasis,fray,cautious,self-centered,lags,inspire,trendsetter,hesitation,courageous,extroverted,conscientious,diligent,outgoing,pack,pace,leisurely,variation,explore,solely,gait,typically,resounding,legitimate,motion,veering,grime,reverence,preservation,restoration,commissioned
+-----
+worksite,millimeter,precise,carpenter,stake,homestate,dismay,sickening,haunting,monument,correspondent,majestic,acres,spire,idyllic,relic,blaze,massive,iconic,cathedral,Notre Dame,veggie,condiments,appeal,backfire,susceptible,nutrient,variety,omnivore,instinct
+-----
+macaroni,reproducible,nutritional,satiety,pharmaceutical,hurdle,brute-force,elegant,renaissance,smallpox,whooping cough,tetanus,rubella,mumps,gotten measles,eradicated,virologist,elite,wander,impasse,immune,serotypes,unpick,drafty,antibiotics,dawn,polio,optimistic,incredibly,minor
+-----
+celebrity,symptoms,infectious,prevalent,sprinkle,tokenism,racism,sexism,trick,mechanics,precinct,simultaneously,demonstrate,immerse,desperately,soundtrack,complementary,excessive,cognitive,cater,academia,eccentric,amateur,Belgian,petit,sleuth,narrator,frame,beverage,essential
+-----
+trail,snappy,accessible,convoluted,disoriented,murky,overhear,scribble,emulate,prejudice,caricature,stereotype,typecasting,traits,eerie,heighten,suspects,stalled,setting,crimes,crafted,compelling,mystery,scoff,promising,novelist,testimony,a state of mind,light-hearted,sacred
+-----
+intellectual,Athens,contemporary,indomitable,broadsword,clans,siege,crag,volcanic,millennia,Camelot,peak,spectacular,crags,lofty,studded,enlightenment,Georgian,poets,snatch,medieval,heritage,grace,Edinburgh,mortar,nervous,circulation,facilitate,legumes,diet
+-----
+artery,clog,cholesterol,refined,supplements,vitamin,paucity,grey,impulse,nicotine,monoxide,toxic,deficit,hypoxia,holistic,sensation,tinnitus,bust,mild,fancy,oxygenated,triangle,downward,pretzel,mojo,strenuous,meditation,auditory,squeeze,cardiovascular
+-----
+cardio,revive,bombard,bombardment,spot,delicate,tempted,exert,confined,stereo,youngster,cranking,decisive,anthropogenic,uninhabitable,volatile,droughts,arid,tides,cascade,vital,catastrophic,foreshadowing,overabundance,acidification,intensify,biosphere,millennium,radical,exponential
+-----
+eradicate,Portugal,hectares,approximately,extensive,exacerbate,ecological,irreversible,disruption,devastating,projection,Celsius,altering,trap,oxide,nitrous,nitrous oxide,methane,dioxide,mechanization,incredible,emitted,irreversibly,drastically,harmonious,genuinely,confront,resentment,wholeness,flourish
+-----
+genuine,repress,eternal,disciple,revengeful,resentful,obedient,suppress,criminal,deluded,ideal,authentic,discipline,metacognition,workout,distracted,blockage,stimulus,retrieval,limbic,receptor,hormone,cortisol,hormone cortisol,undergo,adrenaline,gauge,prep,rhymes,spatial
+-----
+mentally,ketogenesis,glycosis,insulin,palace,technique,optimize,Brazil,gig,variability,sparse,rideshare,vacation,perks,entrepreneur,neurosurgery,respondent,acerbic,inspiration,genius,appalled,immense,herd,essentially,conspiracy,implication,apt,despised,mock,era
+-----
+rituals,cosmos,sublimity,ultimate,lamps,defiant,snug,juxtapose,terrace,astonishing,asylum,penniless,gloomy,shield,abreast,hypothesize,exploring,vigilant,venture,rare,asymmetry,contradiction,weird,tend,thoroughly,stick out,outweigh,tendency,phenomenon,conductance
+-----
+sustained,biosensors,antidote,wired,psychological,bleed,sensational,expectancy,homicide,reality,mascot,self-deprecating,relish,comic,comedy,humor,fervor,authenticity,boast,tweets,endure,conceive,dedicate,consecrate,critical,collaborative,inevitable,ultimately,autonomous,mainstream
+-----
+hovering,crafts,hampered,drone,synonymous,lush,commemorate,remembrance,mourning,willow,duke,defender,exile,folklore,legendary,derived,shimmer,greenery,ward off,libation,figuratively,literally,ancestor,Tombsweeping,cotyledon,defecate
+-----
+一共输出了31组
